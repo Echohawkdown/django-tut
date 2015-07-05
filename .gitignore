@@ -1,0 +1,14 @@
+# PyCharm config files
+.idea/*
+
+# Python compiled files
+*.pyc
+*.pyo
+
+# Database files
+*.sqlite3
+
+# Utilities/settings files
+intro/wsgi.py
+manage.py
+
